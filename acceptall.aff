@@ -1,0 +1,8 @@
+SET UTF-8
+
+IGNORE '_-–—“‘”’
+
+COMPOUNDFLAG s
+COMPOUNDMIN 1
+
+
