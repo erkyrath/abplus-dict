@@ -9,9 +9,9 @@ dictionary.
 This uses the standard ispell format (`.dic` and `.aff` files),
 as described here: https://neovim.io/doc/user/spell.html
 
-To use on MacOS: Copy `acceptall.dic` and `acceptall.aff` into your
+To use on MacOS: Copy `abplus-dict.dic` and `abplus-dict.aff` into your
 `~/Library/Spelling` folder. Then open System Settings and select
 the Keyboard pane; hit the Edit button after "Input Sources".
-Under "Spelling" select "acceptall (Library)"; *also* select
-"Set Up...", check "acceptall (Library)" at the bottom, uncheck
+Under "Spelling" select "abplus-dict (Library)"; *also* select
+"Set Up...", check "abplus-dict (Library)" at the bottom, uncheck
 everything else. Hit "Done" (twice) to exit.
