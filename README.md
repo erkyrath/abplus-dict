@@ -11,7 +11,7 @@ dictionary.
 (But I've only tested it in English.)
 
 This uses the standard ispell format (`.dic` and `.aff` files),
-as described [here][vimdoc] amd [here][hundoc].
+as described [here][vimdoc] and [here][hundoc].
 
 [vimdoc]: https://neovim.io/doc/user/spell.html#spell-wordlist-format
 [hundoc]: https://linux.die.net/man/4/hunspell
